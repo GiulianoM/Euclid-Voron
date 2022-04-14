@@ -7,6 +7,7 @@ Modifications of parts from the [Euclid Probe Github](https://github.com/nionio6
 [STLs](./STL/)
 
 Voron_2.4R2_Euclid_CW1_x_carriage_frame_right.stl
+
 Voron_2.4R2_Euclid_CW1_x_carriage_frame_left.stl
 
 Modified the MGN12 X-Carriage parts from the Voron 2.4R2 CAD model for the Euclid probe.
