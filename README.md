@@ -1,6 +1,8 @@
 # Euclid-Voron
 
-Modifications of parts from the [Euclid Probe Github](https://github.com/nionio6915/Euclid_Probe), for Voron printers.
+Modifications of the MGN12 X-Carriage parts from the [Voron 2.4r2 CAD models](https://github.com/VoronDesign/Voron-2/tree/Voron2.4/CAD), for Voron printers.
+
+Euclid PCB model from [Euclid Probe Github](https://github.com/nionio6915/Euclid_Probe/tree/main/CAD)
 
 # Files
 
