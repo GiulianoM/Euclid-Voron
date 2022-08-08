@@ -4,13 +4,25 @@ Modifications of the MGN12 X-Carriage parts from the [Voron 2.4r2 CAD models](ht
 
 Euclid PCB model from [Euclid Probe Github](https://github.com/nionio6915/Euclid_Probe/tree/main/CAD)
 
-# Files
+Now includes modded version of the CW2 X-Carriage!
+
+## Files
 
 [STLs](./STL/)
+
+## Clockwork 1 Versions
 
 Voron_2.4R2_Euclid_CW1_x_carriage_frame_right.stl
 
 Voron_2.4R2_Euclid_CW1_x_carriage_frame_left.stl
+
+## Clockwork 2 Versions
+
+Voron_2.4R2_Euclid_CW2_x_carriage_frame_right.stl
+
+Voron_2.4R2_Euclid_CW2_x_carriage_frame_left.stl
+
+## Notes
 
 Modified the MGN12 X-Carriage parts from the Voron 2.4R2 CAD model for the Euclid probe.
 
@@ -18,9 +30,10 @@ The original Euclid probe x-carriage models are based on the earlier 2.4r1 versi
 
 * Removed mounting holes for inductive probes, made back of the carriage solid.
 
-* Extended the mounting holes for the Euclid PCB up through the body, you can use either the default 2.5mm coarse thread screws that come with the kit, or M2 10mm self-tapper screws called out for endstop switches.
+* Extended the mounting holes for the Euclid PCB up through the body, you can use either the default 2.5mm coarse thread screws that come with the kit, or M2 10mm self-tapper screws called out for endstop switches. (CW1)
+* The CW2 version is intended to be used with M3 heat inserts.
 
-# Printing
+## Printing
 
 Print with the normal Voron print settings.
 
@@ -28,8 +41,14 @@ However, I recommend enabling Brim Ears in SuperSlicer/PrusaSlicer to keep the s
 
 ![](./Pictures/BrimEars.PNG)
 
-# Pictures
+## Pictures
 
-![](./Pictures/Eudlid-Voron-1.jpg)
+Clockwork 1 Versions
 
-![](./Pictures/Euclid-Voron-2.jpg)
+![CW1](Images/Eudlid-Voron-1.jpg)
+
+![CW1](Images/Euclid-Voron-2.jpg)
+
+Clockwork 2 Version
+
+![CW2](Images/Euclid-Voron-CW2.jpg)
